@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- *empty_stack_err -  Outputs Pint error messages for empty stacks
+ *pint_err -  Outputs Pint error messages for empty stacks
  *
  *@line_number: Line number in Monty bytecodes file where error occurred
  *
